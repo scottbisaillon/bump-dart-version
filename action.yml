@@ -1,4 +1,4 @@
-name: 'Scott Bisaillon'
+name: 'bump-dart-version'
 description: 'Bumps the version found in pubspec.yaml'
 author: 'Scott Bisaillon'
 runs:
