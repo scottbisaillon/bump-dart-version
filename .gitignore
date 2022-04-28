@@ -100,5 +100,5 @@ lib/**/*
 
 # Ignore files for testing 
 .dart_tool/
-pubspec.yaml
 pubspec.lock
+/.packages
